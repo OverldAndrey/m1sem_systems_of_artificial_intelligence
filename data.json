@@ -1,0 +1,504 @@
+{
+  "music": [
+    {
+      "rock": [
+        {
+          "indie": [
+            {
+              "IAMX": [
+                {
+                  "name": "I Come With Knives",
+                  "genre": "rock",
+                  "subgenre": "indie",
+                  "mixedGenres": ["indietronica", "art rock"],
+                  "performer": "IAMX",
+                  "album": "The Unified Field",
+                  "length": 262,
+                  "explicit": false,
+                  "listens": 6198110,
+                  "likes": 16000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "chromatic": [
+            {
+              "SAMURAI": [
+                {
+                  "name": "A Like Supreme",
+                  "genre": "rock",
+                  "subgenre": "chromatic",
+                  "mixedGenres": [],
+                  "performer": "SAMURAI",
+                  "album": "single",
+                  "length": 228,
+                  "explicit": false,
+                  "listens": 5145279,
+                  "likes": 12000,
+                  "tags": ["ost", "videogame"],
+                  "vocals": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "electronic": [
+            {
+              "Varien": [
+                {
+                  "name": "Can You Feel My Heart",
+                  "genre": "rock",
+                  "subgenre": "electronic",
+                  "mixedGenres": [],
+                  "performer": "Varien",
+                  "album": "single",
+                  "length": 232,
+                  "explicit": false,
+                  "listens": 12346915,
+                  "likes": 25000,
+                  "tags": ["cover"],
+                  "vocals": true
+                },
+                {
+                  "name": "Hush the Storms Away",
+                  "genre": "rock",
+                  "subgenre": "electronic",
+                  "mixedGenres": ["orchestral"],
+                  "performer": "Varien",
+                  "album": "single",
+                  "length": 231,
+                  "explicit": false,
+                  "listens": 2159866,
+                  "likes": 9000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            },
+            {
+              "The Birthday Massacre": [
+                {
+                  "name": "Red Stars",
+                  "genre": "rock",
+                  "subgenre": "electronic",
+                  "mixedGenres": ["industrial rock"],
+                  "performer": "The Birthday Massacre",
+                  "album": "Walking With Strangers",
+                  "length": 221,
+                  "explicit": false,
+                  "listens": 7368610,
+                  "likes": 17000,
+                  "tags": [],
+                  "vocals": true
+                },
+                {
+                  "name": "Under Your Spell",
+                  "genre": "rock",
+                  "subgenre": "electronic",
+                  "mixedGenres": [],
+                  "performer": "The Birthday Massacre",
+                  "album": "Under Your Spell",
+                  "length": 271,
+                  "explicit": false,
+                  "listens": 4050736,
+                  "likes": 14000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "electronic": [
+        {
+          "industrial": [
+            {
+              "IAMX": [
+                {
+                  "name": "Volatile Times",
+                  "genre": "electronic",
+                  "subgenre": "industrial",
+                  "mixedGenres": [],
+                  "performer": "IAMX",
+                  "album": "Volatile Times",
+                  "length": 338,
+                  "explicit": false,
+                  "listens": 3334297,
+                  "likes": 20000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            },
+            {
+              "SKYND": [
+                {
+                  "name": "Tyler Hadley",
+                  "genre": "electronic",
+                  "subgenre": "industrial",
+                  "mixedGenres": [],
+                  "performer": "SKYND",
+                  "album": "Chapter II",
+                  "length": 291,
+                  "explicit": true,
+                  "listens": 3423983,
+                  "likes": 30000,
+                  "tags": [],
+                  "vocals": true
+                },
+                {
+                  "name": "Jim Jones",
+                  "genre": "electronic",
+                  "subgenre": "industrial",
+                  "mixedGenres": [],
+                  "performer": "SKYND",
+                  "album": "Chapter II",
+                  "length": 391,
+                  "explicit": false,
+                  "listens": 2102670,
+                  "likes": 8000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "drum&bass": [
+            {
+              "Pendulum": [
+                {
+                  "name": "Witchcraft",
+                  "genre": "electronic",
+                  "subgenre": "drum&bass",
+                  "mixedGenres": ["electronic rock"],
+                  "performer": "Pendulum",
+                  "album": "Immersion",
+                  "length": 252,
+                  "explicit": false,
+                  "listens": 73876307,
+                  "likes": 100000,
+                  "tags": [],
+                  "vocals": true
+                },
+                {
+                  "name": "Watercolor - Full Version",
+                  "genre": "electronic",
+                  "subgenre": "drum&bass",
+                  "mixedGenres": ["electronic rock"],
+                  "performer": "Pendulum",
+                  "album": "Immersion",
+                  "length": 304,
+                  "explicit": false,
+                  "listens": 65165560,
+                  "likes": 80000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            },
+            {
+              "Xtrullor": [
+                {
+                  "name": "Sheol",
+                  "genre": "electronic",
+                  "subgenre": "drum&bass",
+                  "mixedGenres": ["dubstep"],
+                  "performer": "Xtrullor",
+                  "album": "single",
+                  "length": 254,
+                  "explicit": false,
+                  "listens": 117890,
+                  "likes": 760,
+                  "tags": ["videogame"],
+                  "vocals": false
+                }
+              ]
+            },
+            {
+              "Zardonic": [
+                {
+                  "name": "Takeover",
+                  "genre": "electronic",
+                  "subgenre": "drum&bass",
+                  "mixedGenres": ["dance"],
+                  "performer": "Zardonic",
+                  "album": "Become",
+                  "length": 248,
+                  "explicit": false,
+                  "listens": 2865878,
+                  "likes": 4000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            },
+            {
+              "F777": [
+                {
+                  "name": "Space Battle",
+                  "genre": "electronic",
+                  "subgenre": "drum&bass",
+                  "mixedGenres": ["dance"],
+                  "performer": "F777",
+                  "album": "Ludicrous Speed",
+                  "length": 322,
+                  "explicit": false,
+                  "listens": 691155,
+                  "likes": 1500,
+                  "tags": ["videogame"],
+                  "vocals": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "dubstep": [
+            {
+              "Xtrullor": [
+                {
+                  "name": "Nirmiti",
+                  "genre": "electronic",
+                  "subgenre": "dubstep",
+                  "mixedGenres": ["orchestral"],
+                  "performer": "Xtrullor",
+                  "album": "The Second Era",
+                  "length": 308,
+                  "explicit": false,
+                  "listens": 165798,
+                  "likes": 820,
+                  "tags": ["videogame"],
+                  "vocals": false
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "house": [
+            {
+              "F777": [
+                {
+                  "name": "Deadlocked",
+                  "genre": "electronic",
+                  "subgenre": "house",
+                  "mixedGenres": [],
+                  "performer": "F777",
+                  "album": "Smash It Vol.2",
+                  "length": 209,
+                  "explicit": false,
+                  "listens": 601801,
+                  "likes": 3000,
+                  "tags": ["videogame"],
+                  "vocals": false
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "pop": [
+        {
+          "alternative": [
+            {
+              "ZAND": [
+                {
+                  "name": "Luci",
+                  "genre": "pop",
+                  "subgenre": "alternative",
+                  "mixedGenres": ["noise pop", "pop punk", "hardcore"],
+                  "performer": "ZAND",
+                  "album": "single",
+                  "length": 287,
+                  "explicit": false,
+                  "listens": 1220228,
+                  "likes": 10000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            },
+            {
+              "Tryhardninja": [
+                {
+                  "name": "Deep Dive",
+                  "genre": "pop",
+                  "subgenre": "alternative",
+                  "mixedGenres": ["dance", "rap"],
+                  "performer": "Tryhardninja",
+                  "album": "single",
+                  "length": 213,
+                  "explicit": false,
+                  "listens": 300000,
+                  "likes": 500,
+                  "tags": ["ost", "videogame"],
+                  "vocals": true
+                }
+              ]
+            },
+            {
+              "Lollia": [
+                {
+                  "name": "Rivers in the Desert",
+                  "genre": "pop",
+                  "subgenre": "alternative",
+                  "mixedGenres": [],
+                  "performer": "Lollia",
+                  "album": "Personified",
+                  "length": 302,
+                  "explicit": false,
+                  "listens": 5813999,
+                  "likes": 5000,
+                  "tags": ["ost", "videogame", "cover"],
+                  "vocals": true
+                },
+                {
+                  "name": "The Whims of Fate",
+                  "genre": "pop",
+                  "subgenre": "alternative",
+                  "mixedGenres": [],
+                  "performer": "Lollia",
+                  "album": "Personified",
+                  "length": 214,
+                  "explicit": false,
+                  "listens": 1000000,
+                  "likes": 900,
+                  "tags": ["ost", "videogame", "cover"],
+                  "vocals": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "japanese": [
+            {
+              "Mili": [
+                {
+                  "name": "world.execute(me);",
+                  "genre": "pop",
+                  "subgenre": "japanese",
+                  "mixedGenres": ["vocal pop"],
+                  "performer": "Mili",
+                  "album": "Miracle Milk",
+                  "length": 211,
+                  "explicit": false,
+                  "listens": 10149816,
+                  "likes": 18000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            },
+            {
+              "FictionJunction": [
+                {
+                  "name": "From the Edge",
+                  "genre": "pop",
+                  "subgenre": "japanese",
+                  "mixedGenres": [],
+                  "performer": "FictionJunction",
+                  "album": "single",
+                  "length": 278,
+                  "explicit": false,
+                  "listens": 14652307,
+                  "likes": 20000,
+                  "tags": ["ost"],
+                  "vocals": true
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "synth": [
+            {
+              "Ashbury Heights": [
+                {
+                  "name": "If You`re Shooting with the Left It Means the Right Side is Working",
+                  "genre": "pop",
+                  "subgenre": "synth",
+                  "mixedGenres": [],
+                  "performer": "Ashbury Heights",
+                  "album": "The Victorian Wallflowers",
+                  "length": 275,
+                  "explicit": false,
+                  "listens": 744111,
+                  "likes": 3000,
+                  "tags": [],
+                  "vocals": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "classical": [
+        {
+          "crossover": [
+            {
+              "MONACA": [
+                {
+                  "name": "City Ruins - Rays of Light",
+                  "genre": "classical",
+                  "subgenre": "crossover",
+                  "mixedGenres": ["orchestral"],
+                  "performer": "MONACA",
+                  "album": "NieR:Automata OST, disc 1",
+                  "length": 382,
+                  "explicit": false,
+                  "listens": 600000,
+                  "likes": 2000,
+                  "tags": ["ost", "videogame"],
+                  "vocals": true
+                },
+                {
+                  "name": "Wretched Weaponry: Medium/Dynamic",
+                  "genre": "classical",
+                  "subgenre": "crossover",
+                  "mixedGenres": ["orchestral"],
+                  "performer": "MONACA",
+                  "album": "NieR:Automata OST, disc 2",
+                  "length": 424,
+                  "explicit": false,
+                  "listens": 500000,
+                  "likes": 1900,
+                  "tags": ["ost", "videogame"],
+                  "vocals": true
+                },
+                {
+                  "name": "Copied City",
+                  "genre": "classical",
+                  "subgenre": "crossover",
+                  "mixedGenres": ["orchestral"],
+                  "performer": "MONACA",
+                  "album": "NieR:Automata OST, disc 2",
+                  "length": 239,
+                  "explicit": false,
+                  "listens": 400000,
+                  "likes": 1500,
+                  "tags": ["ost", "videogame"],
+                  "vocals": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "music": [
+    {
+      "genre": [
+        {
+          "subgenre": [
+            {
+              "performer": [
+                {
+                  "name": "name",
+                  "genre": "genre",
+                  "subgenre": "subgenre",
+                  "mixedGenres": [],
+                  "performer": "performer",
+                  "album": "album",
+                  "length": 1234,
+                  "explicit": false,
+                  "listens": 2134,
+                  "likes": 1234,
+                  "tags": ["videogame", "cover", "ost"],
+                  "vocals": true
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
